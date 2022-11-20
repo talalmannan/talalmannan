@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @talalmannan
-- 👀 I’m interested in AI and MAchine Learning
+- 👀 I’m interested in AI and Machine Learning
 - 🌱 I’m currently learning Neural Networks
 - 💞️ I’m looking to collaborate on project involving ML
 - 📫 How to reach me 
